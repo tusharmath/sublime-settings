@@ -4,8 +4,7 @@
 	"ignored_packages":
 	[
 		"JSLint",
-		"Vintage",
-		"GitGutter"
+		"Vintage"
 	],
 	"theme": "Flatland Dark.sublime-theme"
 }
