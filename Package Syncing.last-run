@@ -1,0 +1,76 @@
+{
+    "last_local_data": {
+        "Default (Linux).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/practo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap", 
+            "version": 1395388849.4952016
+        }, 
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/practo/.config/sublime-text-2/Packages/User/Default (OSX).sublime-keymap", 
+            "version": 1393495313.1760402
+        }, 
+        "Default (Windows).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/practo/.config/sublime-text-2/Packages/User/Default (Windows).sublime-keymap", 
+            "version": 1393495313.1760402
+        }, 
+        "HTML (Twig).sublime-settings": {
+            "dir": "", 
+            "path": "/home/practo/.config/sublime-text-2/Packages/User/HTML (Twig).sublime-settings", 
+            "version": 1395300862.4686418
+        }, 
+        "Node.sublime-build": {
+            "dir": "", 
+            "path": "/home/practo/.config/sublime-text-2/Packages/User/Node.sublime-build", 
+            "version": 1394086085.5138361
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "/home/practo/.config/sublime-text-2/Packages/User/Package Control.sublime-settings", 
+            "version": 1396867359.0217934
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "/home/practo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings", 
+            "version": 1396867361.5017934
+        }
+    }, 
+    "last_remote_data": {
+        "Default (Linux).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/practo/Dropbox/sublime-settings/Default (Linux).sublime-keymap", 
+            "version": 1395388849.4952011
+        }, 
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/practo/Dropbox/sublime-settings/Default (OSX).sublime-keymap", 
+            "version": 1393495313.1760399
+        }, 
+        "Default (Windows).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/practo/Dropbox/sublime-settings/Default (Windows).sublime-keymap", 
+            "version": 1393495313.1760399
+        }, 
+        "HTML (Twig).sublime-settings": {
+            "dir": "", 
+            "path": "/home/practo/Dropbox/sublime-settings/HTML (Twig).sublime-settings", 
+            "version": 1395300862.468641
+        }, 
+        "Node.sublime-build": {
+            "dir": "", 
+            "path": "/home/practo/Dropbox/sublime-settings/Node.sublime-build", 
+            "version": 1394086085.5138359
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "/home/practo/Dropbox/sublime-settings/Package Control.sublime-settings", 
+            "version": 1396867359.0217929
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "/home/practo/Dropbox/sublime-settings/Preferences.sublime-settings", 
+            "version": 1396867361.5017929
+        }
+    }
+}

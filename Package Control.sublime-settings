@@ -1,0 +1,32 @@
+{
+    "installed_packages": [
+        "Clipboard History",
+        "CoffeeLint",
+        "CoffeeScript",
+        "Emmet",
+        "FuzzyFileNav",
+        "GitGutter",
+        "Github Tools",
+        "HTMLBeautify",
+        "Jade",
+        "Javascript Beautify",
+        "JSHint",
+        "JSLint",
+        "JSONLint",
+        "LESS",
+        "Package Control",
+        "Package Syncing",
+        "PHP-Twig",
+        "Pretty JSON",
+        "rsub",
+        "SublimeLinter",
+        "Theme - Flatland",
+        "Theme - Soda",
+        "Theme - Spacegray",
+        "Tomorrow Color Schemes",
+        "Underscore.js Snippets"
+    ],
+    "repositories": [
+        "https://github.com/tusharmath/sublime-settings.git"
+    ]
+}
