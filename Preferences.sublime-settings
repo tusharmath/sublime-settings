@@ -1,44 +1,43 @@
 {
-	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
-	"file_exclude_patterns":
-	[
-		"*.xml",
-		"*.pyc",
-		"*.pyo",
-		"*.exe",
-		"*.dll",
-		"*.obj",
-		"*.o",
-		"*.a",
-		"*.lib",
-		"*.so",
-		"*.dylib",
-		"*.ncb",
-		"*.sdf",
-		"*.suo",
-		"*.pdb",
-		"*.idb",
-		".DS_Store",
-		"*.class",
-		"*.psd",
-		"*.db"
-	],
-	"folder_exclude_patterns":
-	[
-		"node_modules",
-		".meteor/local",
-		"packages",
-		"bower_components",
-		".git"
-	],
-	"ignored_packages":
-	[
-		"Mocha Runner",
-		"Vintage",
-		"MarkdownEditing"
-	],
-	"tab_size": 4,
-	"theme": "Flatland Dark.sublime-theme",
-	"translate_tabs_to_spaces": false,
-	"word_wrap": false
+    "color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+    "file_exclude_patterns": [
+        "*.xml",
+        "*.pyc",
+        "*.pyo",
+        "*.exe",
+        "*.dll",
+        "*.obj",
+        "*.o",
+        "*.a",
+        "*.lib",
+        "*.so",
+        "*.dylib",
+        "*.ncb",
+        "*.sdf",
+        "*.suo",
+        "*.pdb",
+        "*.idb",
+        ".DS_Store",
+        "*.class",
+        "*.psd",
+        "*.db"
+    ],
+    "folder_exclude_patterns": [
+        "node_modules",
+        ".meteor/local",
+        "packages",
+        "bower_components",
+        ".git"
+    ],
+    "ignored_packages": [
+        "Mocha Runner",
+        "Vintage",
+        "MarkdownEditing"
+    ],
+    "tab_size": 2,
+    "theme": "Flatland Dark.sublime-theme",
+    "translate_tabs_to_spaces": false,
+    "expand_tabs_on_save": false,
+    "detect_indentation": false,
+    "word_wrap": false
 }
