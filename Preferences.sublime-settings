@@ -1,14 +1,5 @@
 {
 	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
-<<<<<<< HEAD
-	"font_size": 10,
-	"ignored_packages":
-	[
-		"JSLint",
-		"Vintage"
-	],
-	"theme": "Flatland Dark.sublime-theme"
-=======
 	"file_exclude_patterns":
 	[
 		"*.xml",
@@ -32,7 +23,6 @@
 		"*.psd",
 		"*.db"
 	],
-	"flatland_square_tabs": false,
 	"folder_exclude_patterns":
 	[
 		"node_modules",
@@ -41,17 +31,14 @@
 		"bower_components",
 		".git"
 	],
-	"font_size": 12.0,
 	"ignored_packages":
 	[
 		"Mocha Runner",
 		"Vintage",
-		"GitGutter",
 		"MarkdownEditing"
 	],
 	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"word_wrap": false
->>>>>>> Adding files from mac
 }
