@@ -6,7 +6,6 @@
         "CoffeeComplete Plus (Autocompletion)",
         "CoffeeScript",
         "Emmet",
-        "Figlet Big ASCII Text",
         "FuzzyFileNav",
         "Git",
         "GitGutter",
@@ -24,15 +23,10 @@
         "Markdown Extended",
         "Markdown Preview",
         "MarkdownEditing",
-        "Mocha Runner",
         "Package Control",
         "PHP-Twig",
-        "Predawn",
         "Pretty JSON",
         "SublimeLinter",
-        "Theme - Flatland",
-        "Theme - Phoenix",
-        "Theme - Soda",
-        "Theme - Spacegray"
+        "Theme - Flatland"
     ]
 }
