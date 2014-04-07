@@ -2,33 +2,36 @@
 	"installed_packages":
 	[
 		"Clipboard History",
-		"CoffeeLint",
+		"Clipboard Manager",
+		"CoffeeCompile",
+		"CoffeeComplete Plus (Autocompletion)",
 		"CoffeeScript",
+		"doTjs Template Syntax Highlighting",
 		"Emmet",
-		"FuzzyFileNav",
+		"Figlet Big ASCII Text",
 		"Git",
+		"GitGutter",
 		"Github Tools",
+		"HTML2Jade",
 		"HTMLBeautify",
 		"Jade",
+		"Jade Build",
+		"Jade Snippets",
 		"Javascript Beautify",
 		"JSHint",
-		"JSLint",
 		"JSONLint",
 		"LESS",
-		"Markdown Preview",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Mocha Runner",
 		"Package Control",
 		"PHP-Twig",
+		"Predawn",
 		"Pretty JSON",
-		"rsub",
 		"SublimeLinter",
 		"Theme - Flatland",
+		"Theme - Phoenix",
 		"Theme - Soda",
-		"Theme - Spacegray",
-		"Tomorrow Color Schemes",
-		"Underscore.js Snippets"
-	],
-	"repositories":
-	[
-		"https://github.com/tusharmath/sublime-settings.git"
+		"Theme - Spacegray"
 	]
 }

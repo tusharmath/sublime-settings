@@ -1,19 +1,2 @@
 [
-
-
-    {
-        "keys": ["ctrl+o"],
-        "command": "fuzzy_start_from_file"
-    }, {
-        "keys": ["ctrl+shift+o"],
-        "command": "fuzzy_bookmarks_load"
-    }, {
-        "keys": [
-            "f5"
-        ],
-        "command": "refresh_folder_list"
-    }, {
-        "keys": ["ctrl+keypad0"],
-        "command": "reset_font_size"
-    }
 ]
