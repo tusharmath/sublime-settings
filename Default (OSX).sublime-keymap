@@ -5,6 +5,12 @@
     }, {
         "keys": ["ctrl+0"],
         "command": "reset_font_size"
+    }, {
+        "keys": ["ctrl+o"],
+        "command": "fuzzy_start_from_file"
+    }, {
+        "keys": ["ctrl+shift+o"],
+        "command": "fuzzy_bookmarks_load"
     }
 
 ]
