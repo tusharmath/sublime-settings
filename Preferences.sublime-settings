@@ -1,46 +1,51 @@
 {
-    "color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
-    "margin": 2,
-    "detect_indentation": true,
-    "expand_tabs_on_save": true,
-    "file_exclude_patterns": [
-        "*.xml",
-        "*.pyc",
-        "*.pyo",
-        "*.exe",
-        "*.dll",
-        "*.obj",
-        "*.o",
-        "*.a",
-        "*.lib",
-        "*.so",
-        "*.dylib",
-        "*.ncb",
-        "*.sdf",
-        "*.suo",
-        "*.pdb",
-        "*.idb",
-        ".DS_Store",
-        "*.class",
-        "*.psd",
-        "*.db"
-    ],
-    "folder_exclude_patterns": [
-        "node_modules",
-        ".meteor/local",
-        "packages",
-        "bower_components",
-        ".git"
-    ],
-    "ignored_packages": [
-        "Vintage",
-        "MarkdownEditing"
-    ],
-    "rulers": [
-        60
-    ],
-    "tab_size": 4,
-    "theme": "Flatland Dark.sublime-theme",
-    "translate_tabs_to_spaces": true,
-    "word_wrap": false
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"detect_indentation": true,
+	"expand_tabs_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.xml",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db"
+	],
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".meteor/local",
+		"packages",
+		"bower_components",
+		".git"
+	],
+	"ignored_packages":
+	[
+		"Vintage",
+		"MarkdownEditing",
+		"JSLint"
+	],
+	"margin": 2,
+	"rulers":
+	[
+		60
+	],
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
 }
