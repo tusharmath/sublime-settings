@@ -1,10 +1,9 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/iPlastic (SL).tmTheme",
+	"color_scheme": "Packages/User/Active4D (SL).tmTheme",
 	"copy_with_empty_selection": false,
 	"detect_indentation": true,
-	"dictionary": "Packages/Language - English/en_US.dic",
 	"drag_text": false,
 	"draw_centered": false,
 	"draw_white_space": "selection",
@@ -49,18 +48,20 @@
 	[
 		"no_round"
 	],
-	"font_size": 13,
-	"highlight_line": false,
+	"font_size": 12.0,
+	"highlight_line": true,
 	"ignored_packages":
 	[
-		"SublimeLinter-html-tidy",
+		"JSLint",
 		"Vintage",
-		"JSHint Gutter",
+		"Colorsublime",
+		"Markdown",
+		"Chai Completions",
+		"GitGutter",
 		"Git"
 	],
 	"margin": 2,
 	"overlay_scroll_bars": "enabled",
-	"piatto_folder_icons": true,
 	"preview_on_click": false,
 	"rulers":
 	[
@@ -71,11 +72,9 @@
 	"scroll_speed": 20.0,
 	"show_full_path": false,
 	"soda_classic_tabs": true,
-	"sublimelinter_gutter_marks": true,
 	"tab_size": 4,
-	"tabs_small": true,
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": true
 }
